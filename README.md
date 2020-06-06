@@ -1,4 +1,4 @@
-# travellop2
+# Travel App
 
 A new Flutter application.
 
